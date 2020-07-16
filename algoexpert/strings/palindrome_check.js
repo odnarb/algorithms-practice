@@ -1,5 +1,4 @@
 function palindromeCheck(string){
-    let isPalindrome = false;
 
     //a string is a plaindrone when the left half == the right half backwards
 

@@ -26,10 +26,10 @@ function underscorifySubstring(string, substring) {
         }
     }
 
-    console.log("locations: ", locations );
-    console.log("collapseLocations: ", collapsedLocations );
-    console.log(string);
-    console.log(newString);
+    // console.log("locations: ", locations );
+    // console.log("collapseLocations: ", collapsedLocations );
+    // console.log(string);
+    // console.log(newString);
 
     return newString;
 }
